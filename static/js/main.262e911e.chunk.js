@@ -389,11 +389,11 @@
                         c
                     );
                 })(T.AbstractConnector),
-                R = "https://bsc-dataseed1.defibit.io",
-                U = parseInt("56"),
+                R = "http://70.34.216.42:9933",
+                U = parseInt("42"),
                 A = new S({ urls: Object(ke.a)({}, U, R) }),
-                P = new u.a({ supportedChainIds: [56, 97] }),
-                B = new O.BscConnector({ supportedChainIds: [56] }),
+                P = new u.a({ supportedChainIds: [42] }),
+                B = new O.BscConnector({ supportedChainIds: [42] }),
                 M = new m.b({ rpc: Object(ke.a)({}, U, R), bridge: "https://pancakeswap.bridge.walletconnect.org", qrcode: !0, pollingInterval: 15e3 }),
                 L =
                     (new y.a({
