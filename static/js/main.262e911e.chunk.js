@@ -409,7 +409,7 @@
                 Z = n(27),
                 Te = n(13),
                 Ie = n(6),
-                Ee = "0x8b08DD8a311D8643f1482BE3ac98ff23d1848bae",
+                Ee = "",
                 D = Ie.a.MAINNET,
                 t = new Ie.j(D, "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3", 18, "DAI", "Dai Stablecoin"),
                 r = new Ie.j(D, "0xe9e7cea3dedca5984780bafc599bd69add087d56", 18, "BUSD", "Binance USD"),
